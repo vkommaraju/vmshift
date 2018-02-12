@@ -4,4 +4,9 @@
   <artifactId>vmshift</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  
+  <modules>
+  	<module>zip2</module>
+  	<module>zip-dao</module>
+  </modules>
 </project>
